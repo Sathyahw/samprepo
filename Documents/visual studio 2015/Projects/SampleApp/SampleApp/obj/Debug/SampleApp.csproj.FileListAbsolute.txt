@@ -1,0 +1,7 @@
+c:\users\h156368\documents\visual studio 2015\Projects\SampleApp\SampleApp\bin\Debug\SampleApp.exe.config
+c:\users\h156368\documents\visual studio 2015\Projects\SampleApp\SampleApp\bin\Debug\SampleApp.exe
+c:\users\h156368\documents\visual studio 2015\Projects\SampleApp\SampleApp\bin\Debug\SampleApp.pdb
+c:\users\h156368\documents\visual studio 2015\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.exe
+c:\users\h156368\documents\visual studio 2015\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.pdb
+c:\users\h156368\documents\visual studio 2015\Projects\SampleApp\SampleApp\bin\Debug\SampleApp.exe.CodeAnalysisLog.xml
+c:\users\h156368\documents\visual studio 2015\Projects\SampleApp\SampleApp\bin\Debug\SampleApp.exe.lastcodeanalysissucceeded
