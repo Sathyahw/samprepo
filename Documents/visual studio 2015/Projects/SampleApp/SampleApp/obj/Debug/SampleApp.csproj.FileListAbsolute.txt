@@ -5,3 +5,6 @@ c:\users\h156368\documents\visual studio 2015\Projects\SampleApp\SampleApp\obj\D
 c:\users\h156368\documents\visual studio 2015\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.pdb
 c:\users\h156368\documents\visual studio 2015\Projects\SampleApp\SampleApp\bin\Debug\SampleApp.exe.CodeAnalysisLog.xml
 c:\users\h156368\documents\visual studio 2015\Projects\SampleApp\SampleApp\bin\Debug\SampleApp.exe.lastcodeanalysissucceeded
+c:\users\h156368\bamboo-home\xml-data\build-dir\HPSSAM-BUIL-JOB1\Documents\visual studio 2015\Projects\SampleApp\SampleApp\bin\Debug\SampleApp.exe.config
+c:\users\h156368\bamboo-home\xml-data\build-dir\HPSSAM-BUIL-JOB1\Documents\visual studio 2015\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.exe
+c:\users\h156368\bamboo-home\xml-data\build-dir\HPSSAM-BUIL-JOB1\Documents\visual studio 2015\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.pdb
