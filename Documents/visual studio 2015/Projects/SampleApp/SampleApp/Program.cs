@@ -10,7 +10,7 @@ namespace SampleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!!! GIT");
+            Console.WriteLine("Hello World!!!:)");
             Console.ReadKey();
         }
     }
